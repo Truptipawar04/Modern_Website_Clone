@@ -3,7 +3,7 @@
 
  Modern Website Clone
 
-This project is a clone of an internationally awarded, modern website. I’ve achieved approximately 70% replication of both the design and functionality of the original website. I am working on itd responsiveness 
+This project is a clone of an internationally awarded, modern website. I’ve achieved approximately 70% replication of both the design and functionality of the original website. I am working on its responsiveness 
 
 ## Features
 
